@@ -101,6 +101,12 @@ header {
     padding: 8px 16px;
     border-radius: 5px; 
     text-decoration: none;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.add{
+    margin-top: 40px;
 }
 
 .add-book-link:hover {

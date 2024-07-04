@@ -128,6 +128,8 @@ h2.section-title {
 }
 
 .footer {
+    position: fixed;
+    bottom: 0;
     background-color: #552482;
     color: white;
     padding: 5px;
